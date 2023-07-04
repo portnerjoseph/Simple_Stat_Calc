@@ -1,0 +1,18 @@
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe.config
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.pdb
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.TravelingSalesman.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.Properties.Resources.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Standard Deviation and Stat Calc.csproj.GenerateResource.Cache
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Statistics Calculator.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Statistics Calculator.pdb
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe.config
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\bin\Release\Statistics Calculator.pdb
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Standard Deviation and Stat Calc.csprojAssemblyReference.cache
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.StatCalc.resources
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.Properties.Resources.resources
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Standard Deviation and Stat Calc.csproj.GenerateResource.cache
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Standard Deviation and Stat Calc.csproj.CoreCompileInputs.cache
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Statistics Calculator.exe
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Traveling Salesman Problem\obj\Release\Statistics Calculator.pdb

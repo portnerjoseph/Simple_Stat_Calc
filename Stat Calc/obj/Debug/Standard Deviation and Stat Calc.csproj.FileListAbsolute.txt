@@ -1,0 +1,9 @@
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\bin\Debug\Statistics Calculator.exe.config
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\bin\Debug\Statistics Calculator.exe
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\bin\Debug\Statistics Calculator.pdb
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Traveling_Salesman_Problem.StatCalc.resources
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Traveling_Salesman_Problem.Properties.Resources.resources
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Standard Deviation and Stat Calc.csproj.GenerateResource.cache
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Standard Deviation and Stat Calc.csproj.CoreCompileInputs.cache
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Statistics Calculator.exe
+D:\Documents\MyDocuments\programing\c# projects\Standard Deviation Calc\Simple_Stat_Calc\Stat Calc\obj\Debug\Statistics Calculator.pdb

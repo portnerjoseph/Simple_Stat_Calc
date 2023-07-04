@@ -1,0 +1,8 @@
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.TravelingSalesman.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Traveling_Salesman_Problem.Properties.Resources.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Traveling Salesman Problem.csproj.GenerateResource.Cache
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe.config
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Release\Statistics Calculator.pdb
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Statistics Calculator.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Release\Statistics Calculator.pdb

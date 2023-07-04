@@ -1,0 +1,9 @@
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Debug\Traveling Salesman Problem.exe.config
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Debug\Traveling Salesman Problem.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\bin\Debug\Traveling Salesman Problem.pdb
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling_Salesman_Problem.Properties.Resources.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling Salesman Problem.csproj.GenerateResource.Cache
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling Salesman Problem.exe
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling Salesman Problem.pdb
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling_Salesman_Problem.TravelingSalesman.resources
+D:\documents\c# projects\Traveling Salesman Problem\Traveling Salesman Problem\obj\Debug\Traveling Salesman Problem.csprojResolveAssemblyReference.cache
